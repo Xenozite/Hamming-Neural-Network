@@ -310,23 +310,23 @@
             this.label12.AutoSize = true;
             this.label12.Location = new System.Drawing.Point(14, 154);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(312, 16);
+            this.label12.Size = new System.Drawing.Size(287, 16);
             this.label12.TabIndex = 6;
-            this.label12.Text = "The criterion of stabilization of the vector (Emax): 0,1";
+            this.label12.Text = "Criterion of stabilization of the vector (Emax): 0,1";
             // 
             // label11
             // 
             this.label11.AutoSize = true;
             this.label11.Location = new System.Drawing.Point(14, 132);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(294, 16);
+            this.label11.Size = new System.Drawing.Size(273, 16);
             this.label11.TabIndex = 5;
-            this.label11.Text = "The threshold of the activation function (T): 20000";
+            this.label11.Text = "Threshold of the activation function (T): 20000";
             // 
             // CurrentImage
             // 
             this.CurrentImage.AutoSize = true;
-            this.CurrentImage.Location = new System.Drawing.Point(130, 46);
+            this.CurrentImage.Location = new System.Drawing.Point(105, 46);
             this.CurrentImage.Name = "CurrentImage";
             this.CurrentImage.Size = new System.Drawing.Size(15, 16);
             this.CurrentImage.TabIndex = 3;
@@ -346,9 +346,9 @@
             this.label7.AutoSize = true;
             this.label7.Location = new System.Drawing.Point(14, 46);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(119, 16);
+            this.label7.Size = new System.Drawing.Size(94, 16);
             this.label7.TabIndex = 1;
-            this.label7.Text = "The current image:";
+            this.label7.Text = "Current image:";
             // 
             // ImageAmount
             // 
