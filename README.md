@@ -5,8 +5,8 @@ This is a simple implementation that shows how the Hamming neural network works.
 The program is based on the following neural network scheme:
 ![alt text](https://cdn1.savepice.ru/uploads/2020/1/15/4f1d656762f318568ebc4202ba4d5ec1-full.png)
 
-As training and test examples, i used letters of the Latin alphabet positioned on 
-images of the BMP format with the size of 200x200 pixels. 
+Letters of the Latin alphabet, positioned on 
+images of the BMP format with the size of 200x200 pixels, used as training and test examples. 
 
 There are 3 ways to get image for network test: 
 - By noise generator (black and with inversion).
